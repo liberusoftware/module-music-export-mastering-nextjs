@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-export-mastering-nextjs",
+  "capabilityKey": "liberusoftware/music-export-mastering",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-music-export-mastering-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/music/nextjs/export-mastering.md",
+  "presentationPlan": "projects/music/nextjs/export-mastering.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
